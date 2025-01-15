@@ -1,9 +1,9 @@
-
+         <h1> Hola, este es mi conversor de monedas </h1>
+ 
 ![image](https://github.com/user-attachments/assets/328ee4fb-e777-4f98-9f3f-c086ab938968)
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
-  📚 <h1> Hola, este es mi conversor de monedas </h1>
-</div>
+
 <h1> Hola, este es mi conversor de monedas </h1>
 <p> Funcionamiento: </p>
 <ol>
@@ -28,3 +28,5 @@
 
 
 <h1> Con eso deberia ser suficiente para que funcione </h1>
+
+</div>

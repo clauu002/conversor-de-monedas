@@ -1,17 +1,16 @@
-         <h1> Hola, este es mi conversor de monedas </h1>
+<h1> Hola, este es mi conversor de monedas </h1>
  
 ![image](https://github.com/user-attachments/assets/328ee4fb-e777-4f98-9f3f-c086ab938968)
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
 
-<h1> Hola, este es mi conversor de monedas </h1>
 <p> Funcionamiento: </p>
 <ol>
-  <li>Paso 1: Se descarga el archivo en un ZIP</li>
-  <li>Paso 2: Se descomprime </li>
-        <li>Paso 3: Abrimos nuestro intellij idea y en el menu superior, presionamos file y luego open, buscamos el archivo que descargamos y descomprimimos y lo seleccionamos </li>
+  <li> Se descarga el archivo en un ZIP</li>
+  <li> Se descomprime </li>
+        <li>Abrimos nuestro intellij idea y en el menu superior, presionamos file y luego open, buscamos el archivo que descargamos y descomprimimos y lo seleccionamos </li>
   ...
-  <li>Una vez abierto vamos a la carpeta src y buscamos la clase 
+  <li> Una vez abierto vamos a la carpeta src y buscamos la clase 
           "Main" la corremos y deberia funcionar sin ningun problema</li>
 
         

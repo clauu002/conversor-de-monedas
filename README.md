@@ -32,8 +32,7 @@
 
 (Adicional: Deben estar instaladas las dependencias gson para que funcione correctamente)
 
-<img src="https://es.pinterest.com/pin/699113542189726809/" alt="">
-
+<img src="https://i.pinimg.com/originals/80/66/e5/8066e5df061d27951e7ebfe0842a1e54.gif" alt="">
 
 
 <h1> Con eso deberia ser suficiente para que funcione </h1>

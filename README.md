@@ -30,6 +30,8 @@
 
 <p> Despues solo ingresamos la cantidad que queremos convertir, escribimos la moneda de origen, luego la moneda a la que queremos convertirla y vemos el resultado </p>
 
+(Adicional: Deben estar instaladas las dependencias gson para que funcione correctamente)
+
 ![image](https://github.com/user-attachments/assets/3e9039a0-353a-4798-881e-c8acf924980e)
 
 

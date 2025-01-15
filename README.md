@@ -1,4 +1,12 @@
 <h1> Hola, este es mi conversor de monedas </h1>
+
+<svg width="100%" height="100">
+  <rect width="100%" height="100%" fill="#FFD700" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000">
+    ¡Bienvenido a mi README!
+  </text>
+</svg>
+
  
 ![image](https://github.com/user-attachments/assets/328ee4fb-e777-4f98-9f3f-c086ab938968)
 
